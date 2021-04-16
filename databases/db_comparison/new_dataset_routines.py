@@ -96,5 +96,5 @@ def download_mod_res_info():
     F.close()
 
 
-download_bm_validation()
-download_bm_assembly()
+# download_bm_validation()
+# download_bm_assembly()
